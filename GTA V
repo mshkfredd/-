@@ -1,0 +1,40 @@
+<html>
+   <main>
+        <header>
+            <a>Персонажи</a>
+            <a>Локации</a>
+            <a>Предметы</a>
+        </header>
+        <body>
+            <h1>GTA V</h1>
+            <article class="card">
+              <p>Персонаж:Франклин 25-30 лет.<br><br><br>Уличный бандит,жил у своей тёти,познакопился с майклом на угоне машины сына майкла,</p>
+                <img src="https://ixbt.online/gametech/covers/2022/04/14/nova-filepond-9UUgqZ.jpg">
+            </article>
+            <article class="card">
+              <p>Персонаж:Ломар.25-30 лет.<br><br><br>уличный бандит и у него есть пёс чоп но он отдал его франклину,лучший друг франклина, </p>
+                <img src="https://pm1.aminoapps.com/6695/709606a1cf37e39aca948318dcee6fe2a5e5f25a_00.jpg">           
+            </article>
+              <article class="card">
+              <p>Персонаж:Майкл.30-40 лет.<br><br><br> есть жена, дочь, сын, свой дом, сделал подставную смерть в 1 мисси , </p>
+                <img src="https://i.playground.ru/p/nFiBAJJP9iLmzy0B7Uv-7g.jpeg">           
+            </article>
+           <article class="card">
+              <p>Персонаж: Тревор .30-45 лет.<br><br><br>  живёт в маленьком заселенье,друг майкла  , </p>                    
+                <img src="https://i.playground.ru/p/FLRhhMhlEARHnK-Js7UMuA.png">           
+            </article>
+                 <article class="card">
+              <p>Персонаж: Симон .30-42 года.<br><br><br>  есть автосолон, давал задания франклину. </p>
+                <img src="https://gta-help.ru/wp-content/uploads/simeon-yetarian-thumbnail.jpg">           
+            </article>
+                 <article class="card">
+              <p>Персонаж: Лестер.30-35 года.<br><br><br>  в дальнейшем будет помогать в миссях по ограблению. </p>
+                <img src="https://preview.redd.it/why-does-lester-take-5-of-the-cut-even-though-he-has-v0-n9iatajqk9hb1.jpg?auto=webp&s=00d253da065b57e5110b6db24bfc5df6a31a61cc"> 
+                </article>
+                 <article class="card">
+              <p>Чоп .<br><br><br> в 1 мисси Франклин узнал о чопе, после мисси ламар отдал чопа франклину, вот так выглядет чоп, брутальный но очень любит поиграть с хозяином . </p>
+                <img src="https://counter-strike.vip/uploads/posts/2020-06/1592491773_logotip__chop_iz_gta_.webp">          
+            </article>
+        </body>
+   </main>
+</html>
